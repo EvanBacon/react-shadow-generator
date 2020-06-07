@@ -1,4 +1,4 @@
-# [Next.js Example](https://www.nextjs.org/)
+# React Shadow Generator
 
 <p>
   <!-- Web -->

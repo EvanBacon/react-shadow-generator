@@ -23,4 +23,4 @@ yarn-error.log*
 .env*
 
 .next
-.out
+out

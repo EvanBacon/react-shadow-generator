@@ -13,7 +13,8 @@
     "@expo/next-adapter": "2.1.0"
   },
   "scripts": {
-    "build": "next build",
+    "deploy": "netlify deploy --dir out/ --prod",
+    "build": "next build && next export",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
